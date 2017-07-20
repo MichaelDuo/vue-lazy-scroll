@@ -1,0 +1,27 @@
+{
+  "name": "vue-lazy-scroll",
+  "version": "1.0.0",
+  "description": "Vue lazy scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config ./build/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelDuo/vue-lazy-scroll.git"
+  },
+  "keywords": [
+    "vue",
+    "lazy",
+    "scroll",
+    "infinite",
+    "scrolling"
+  ],
+  "author": "Michael Dong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelDuo/vue-lazy-scroll/issues"
+  },
+  "homepage": "https://github.com/MichaelDuo/vue-lazy-scroll#readme"
+}

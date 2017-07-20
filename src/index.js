@@ -1,2 +1,2 @@
-import lazyScroll from './vue-lazy-scroll.vue'
-export default lazyScroll
+import LazyScroll from "./vue-lazy-scroll.vue"
+export default LazyScroll
